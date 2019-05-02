@@ -1,0 +1,3 @@
+/home/sergey/C++_Projects/c++_as4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sergey/C++_Projects/c++_as4/cmake-build-debug/CMakeFiles/c___as4.dir
+/home/sergey/C++_Projects/c++_as4/cmake-build-debug/CMakeFiles/edit_cache.dir
