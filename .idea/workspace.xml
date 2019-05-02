@@ -16,7 +16,6 @@
       <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../func.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../func.hpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../func.hpp.gch" beforeDir="false" />
@@ -251,18 +250,17 @@
       <workItem from="1556364292959" duration="12706000" />
       <workItem from="1556468768428" duration="2172000" />
       <workItem from="1556472440941" duration="976000" />
-      <workItem from="1556548076713" duration="3555000" />
+      <workItem from="1556548076713" duration="3792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52178000" />
+    <option name="totallyTimeSpent" value="52415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="525" y="121" width="1169" height="555" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23419413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23419413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -273,7 +271,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.8066826" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.8066826" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.3289256" />
