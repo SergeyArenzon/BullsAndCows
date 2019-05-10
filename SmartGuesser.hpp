@@ -7,16 +7,22 @@
 
 #include "Guesser.hpp"
 #include "calculate.hpp"
-
+#include <stack>
 namespace bullpgia{
+
+
+
 class SmartGuesser : public bullpgia::Guesser {
 
     public:
+    int* help;
+    vector <string> allPermu;
+    int _counter;
 
+
+        ~SmartGuesser();
         void learn(const string &s) override;
-
         void startNewGame(uint uint) override;
-
         string guess() override;
 
     };

@@ -12,6 +12,7 @@ namespace bullpgia{
 
     class Chooser{
     public:
+        string _guess;
         virtual string choose(uint length)=0;
 
 

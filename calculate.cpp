@@ -49,6 +49,7 @@ namespace bullpgia {
                         if(choice.at(i)==guess.at(k)) {
                             pgia++;
                             pgiot=pgiot+guess.at(k);
+
                             break;
                         }
 
@@ -72,9 +73,3 @@ namespace bullpgia {
 
 
 
-//int main(){
-//
-//    cout<<bullpgia::calculateBullAndPgia("1110","0111")<<endl;
-//
-//    return 0;
-//}

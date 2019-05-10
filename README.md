@@ -1,2 +1,0 @@
-# BullPgia
-# BullsAndCows

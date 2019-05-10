@@ -7,13 +7,13 @@
 
 
 string bullpgia::Chooser::choose(uint length) {
-    string choice;
+    string ch="";
     for (int i = 0; i < length; ++i) {
-        int iRand = (rand() % 9) + 1;
-            string num =to_string(iRand);
-            choice=choice+num;
+        ch+=to_string(rand()%9);
     }
-
-    return choice;
+    return ch;
 }
+
+
+
 

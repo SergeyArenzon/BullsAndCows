@@ -10,16 +10,31 @@ using namespace std;
 
 
 
-//void learn (const string& s){
-//
-//
-//
-//
-//
-//
-//}
-//void startNewGame(uint uint){
-//
-//
-//
-//}
+
+
+void learn (const string& s){
+
+
+
+
+
+
+
+}
+void startNewGame(uint uint){
+
+
+
+
+
+
+    }
+
+
+
+
+string guess(){
+
+
+
+}

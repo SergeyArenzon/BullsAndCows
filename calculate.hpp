@@ -13,7 +13,7 @@
 
 namespace bullpgia{
     std::string calculateBullAndPgia(std::string s1,std:: string s2);
-    //std::vector<int> intToDigits(int number);
+
 }
 
 
